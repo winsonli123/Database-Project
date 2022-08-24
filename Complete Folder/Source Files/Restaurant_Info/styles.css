@@ -1,0 +1,12 @@
+.rest_name, .cust_user {
+    text-align: center;
+    font-weight: bold;
+}
+
+.rest_details {
+    text-align: center;
+}
+
+.cust_details, .food_details, .review_details {
+    text-align: left;
+}
